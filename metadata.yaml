@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/919
     wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39252#The-Near-EastDalmatia-Greece-and-Constantinople
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
 identifiers:
