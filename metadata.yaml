@@ -1,0 +1,41 @@
+_repo: The-Near-EastDalmatia-Greece-and-Constantinople_39252
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Guérin, Jules Vallée
+    alias: Guerin, Jules Vallee
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '39919'
+    url: http://www.gutenberg.org/2009/agents/39919
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert S. (Robert Smythe)
+    - Hichens, Robert Smythe
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- !lcsh 'Greece -- Description and travel'
+- !lcc 'D'
+- !lcsh 'Dalmatia (Croatia) -- Description and travel'
+- !lcsh 'Athens (Greece) -- Description and travel'
+title: 'The Near East: Dalmatia, Greece and Constantinople'
+url: http://www.gutenberg.org/ebooks/39252
